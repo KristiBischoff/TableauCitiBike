@@ -1,4 +1,4 @@
-# Tableau Assignment - Citi Bike Analytics
+# Tableau - Citi Bike Analytics
 
 ## Background and Task
 
@@ -13,6 +13,4 @@ However, while the data has been regularly updated, the team has yet to implemen
 #Dashboard
 Analysis conducted by gender, age, peak travel hours, and trip duration. Two maps were generated to highlight the prevalence of end and start station among travelers.
 
-## Copyright
 
-Data Boot Camp (C) 2018. All Rights Reserved.
