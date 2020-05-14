@@ -11,8 +11,5 @@ However, while the data has been regularly updated, the team has yet to implemen
 # Dashboard
 Analysis conducted by gender, age, peak travel hours, and trip duration. Two maps were generated to highlight the prevalence of end and start station among travelers.
 
-# Tableau Public link for this project:
-
-(https://public.tableau.com/profile/kristi.bischoff#!/vizhome/CitiBike_project/CitiBikeDashboard?publish=yes)
 
 
