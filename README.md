@@ -11,7 +11,7 @@ However, while the data has been regularly updated, it would be interesting to s
 # Dashboard
 Analysis conducted by gender, age, and subscription status. Two maps were generated to highlight the prevalence of end and start station among travelers. The dashboard is dynamic by categories in order to get a full picture of what subscriber demographics are vs. non-subscribers, demographics of those that started at a particular station vs. others, etc. 
 
-Tableau Public dashboard link: [Citi Bike Tab1](https://public.tableau.com/profile/kristi.bischoff#!/vizhome/CitiBikeMarch2020DemographicsSubscriberStatusandMapping/CitiBikeMarch2020Story)
+Tableau Public dashboard link:(https://public.tableau.com/profile/kristi.bischoff#!/vizhome/CitiBikeMarch2020DemographicsSubscriberStatusandMapping/CitiBikeMarch2020Story)
 
 
 
